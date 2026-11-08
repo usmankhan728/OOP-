@@ -1,0 +1,7 @@
+D:\semester 2\OOPs\WEEK5\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+D:\semester 2\OOPs\WEEK5\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+D:\semester 2\OOPs\WEEK5\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+D:\semester 2\OOPs\WEEK5\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+D:\semester 2\OOPs\WEEK5\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+D:\semester 2\OOPs\WEEK5\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+D:\semester 2\OOPs\WEEK5\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

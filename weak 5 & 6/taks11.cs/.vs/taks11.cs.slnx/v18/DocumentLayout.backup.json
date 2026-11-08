@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|d:\\semester 2\\oops\\weak4\\taks11.cs\\taks11.cs\\studnetui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|solutionrelative:taks11.cs\\studnetui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|d:\\semester 2\\oops\\weak4\\taks11.cs\\taks11.cs\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|solutionrelative:taks11.cs\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|d:\\semester 2\\oops\\weak4\\taks11.cs\\taks11.cs\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|solutionrelative:taks11.cs\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|d:\\semester 2\\oops\\weak4\\taks11.cs\\taks11.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|solutionrelative:taks11.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|d:\\semester 2\\oops\\weak4\\taks11.cs\\taks11.cs\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536930DB-AE53-410A-9EB9-B504D567B235}|taks11.cs\\taks11.cs.csproj|solutionrelative:taks11.cs\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "studentModel.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\studentModel.cs",
+              "RelativeDocumentMoniker": "taks11.cs\\studentModel.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\studentModel.cs*",
+              "RelativeToolTip": "taks11.cs\\studentModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:17:43.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\Program.cs",
+              "RelativeDocumentMoniker": "taks11.cs\\Program.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\Program.cs*",
+              "RelativeToolTip": "taks11.cs\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:10:51.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studnetUI.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\studnetUI.cs",
+              "RelativeDocumentMoniker": "taks11.cs\\studnetUI.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\studnetUI.cs*",
+              "RelativeToolTip": "taks11.cs\\studnetUI.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:18:18.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentService.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\studentService.cs",
+              "RelativeDocumentMoniker": "taks11.cs\\studentService.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\studentService.cs*",
+              "RelativeToolTip": "taks11.cs\\studentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:18:52.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentRepository.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\studentRepository.cs",
+              "RelativeDocumentMoniker": "taks11.cs\\studentRepository.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEAK4\\taks11.cs\\taks11.cs\\studentRepository.cs*",
+              "RelativeToolTip": "taks11.cs\\studentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:19:19.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

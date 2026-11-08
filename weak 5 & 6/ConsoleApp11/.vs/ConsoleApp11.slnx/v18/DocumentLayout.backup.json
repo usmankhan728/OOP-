@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80912BB-C1A8-4B01-A6C6-EBEE1A2D9155}|ConsoleApp11\\ConsoleApp11.csproj|d:\\semester 2\\oops\\week5\\consoleapp11\\consoleapp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80912BB-C1A8-4B01-A6C6-EBEE1A2D9155}|ConsoleApp11\\ConsoleApp11.csproj|solutionrelative:consoleapp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp11\\ConsoleApp11\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp11\\Program.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp11\\ConsoleApp11\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp11\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T12:22:26.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

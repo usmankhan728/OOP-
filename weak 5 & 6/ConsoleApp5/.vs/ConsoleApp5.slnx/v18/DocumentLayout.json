@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\consoleapp5\\book\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\book\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\consoleapp5\\book\\bookui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\book\\bookui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\consoleapp5\\book\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\book\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|d:\\semester 2\\oops\\week5\\consoleapp5\\consoleapp5\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC12FF-7BB5-4393-A2CC-8613997099CD}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bookRepository.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\BOOK\\bookRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\BOOK\\bookRepository.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\BOOK\\bookRepository.cs",
+              "RelativeToolTip": "ConsoleApp5\\BOOK\\bookRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:46:57.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bookService.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\BOOK\\bookService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\BOOK\\bookService.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\BOOK\\bookService.cs",
+              "RelativeToolTip": "ConsoleApp5\\BOOK\\bookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:46:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bookUI.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\BOOK\\bookUI.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\BOOK\\bookUI.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\BOOK\\bookUI.cs",
+              "RelativeToolTip": "ConsoleApp5\\BOOK\\bookUI.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwEgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:46:07.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bookModel.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\BOOK\\bookModel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\BOOK\\bookModel.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\BOOK\\bookModel.cs",
+              "RelativeToolTip": "ConsoleApp5\\BOOK\\bookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:45:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:41:00.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\bin\Debug\net10.0\taks11.cs.exe
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\bin\Debug\net10.0\taks11.cs.deps.json
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\bin\Debug\net10.0\taks11.cs.runtimeconfig.json
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\bin\Debug\net10.0\taks11.cs.dll
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\bin\Debug\net10.0\taks11.cs.pdb
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\taks11.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\taks11.cs.AssemblyInfoInputs.cache
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\taks11.cs.AssemblyInfo.cs
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\taks11.cs.csproj.CoreCompileInputs.cache
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\taks11.cs.dll
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\refint\taks11.cs.dll
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\taks11.cs.pdb
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\taks11.cs.genruntimeconfig.cache
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\ref\taks11.cs.dll
+D:\semester 2\OOPs\WEAK4\taks11.cs\taks11.cs\obj\Debug\net10.0\taks11.cs.csproj.Up2Date

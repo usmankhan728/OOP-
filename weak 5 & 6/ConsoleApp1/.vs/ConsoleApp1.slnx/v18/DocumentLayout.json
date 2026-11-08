@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|d:\\semester 2\\oops\\week5\\consoleapp1\\consoleapp1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|d:\\semester 2\\oops\\week5\\consoleapp1\\consoleapp1\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|d:\\semester 2\\oops\\week5\\consoleapp1\\consoleapp1\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|d:\\semester 2\\oops\\week5\\consoleapp1\\consoleapp1\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|d:\\semester 2\\oops\\week5\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A5E4D-36B6-4F40-8966-7DBCF8CC2745}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\UI\\StudentUI.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\UI\\StudentUI.cs",
+              "RelativeToolTip": "ConsoleApp1\\UI\\StudentUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:54:10.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Services\\StudentServices.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\Services\\StudentServices.cs",
+              "RelativeToolTip": "ConsoleApp1\\Services\\StudentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:53:49.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:53:21.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\Model\\student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Model\\student.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\Model\\student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Model\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:52:24.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\WEEK5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:50:36.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

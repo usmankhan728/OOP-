@@ -1,0 +1,6 @@
+id is : 101
+id is : usman
+id is : 370
+id is : 101
+name is : ukay
+marks is : 370

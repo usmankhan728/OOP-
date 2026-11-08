@@ -1,0 +1,2 @@
+breakfast,1599
+lunch,1000
